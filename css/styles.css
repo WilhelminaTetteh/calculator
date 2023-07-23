@@ -1,0 +1,15 @@
+.orange {
+	background-color: orange;
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+}
+.operations-items {
+	border-bottom: 1px solid gray;
+}
+.border-y {
+	border-bottom: 1px solid gray;
+	background-color: #e0e0e0;
+}
+.border-x {
+	border-left: 1px solid gray;
+}
